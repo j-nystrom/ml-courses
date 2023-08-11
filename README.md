@@ -6,8 +6,8 @@ This repository contains notebooks (mostly assignments but also other code) from
 
 - **ml-intro**: Assigments from introductory course in machine learning (Stockholm University). Covers regression (linear regression, KNN and neural networks), unsupervised learning (K means clustering, Gaussian mixtures, PCA and autoencoders) and reinforcement learning.
 
-- **data-science-intro**:
+- **data-science-intro**: Statistics and core data science concepts: probability theory, random variables, concentration and limits, risk, estimation and likelihood, optimization, pseudorandom number generators, Markov chains, pattern recognition, regression. 
 
 - **statistical-ml**:
 
-- **rl**:   
+- **reinforcement-learning**:   
