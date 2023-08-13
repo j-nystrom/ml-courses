@@ -8,6 +8,6 @@ This repository contains notebooks (mostly assignments but also other code) from
 
 - **data-science-intro**: Course in mathematical statistics and core data science concepts (Uppsala University): probability theory, random variables, concentration and limits, risk, estimation and likelihood, optimization, pseudorandom number generators, Markov chains, pattern recognition, regression. 
 
-- **statistical-ml**:
+- **statistical-ml**: Statistical machine learning course covering linear regression, classification models (LDA, QDA, KNN), tree based models (decision trees, random forests, bagging) and boosting (Uppsala University).
 
 - **reinforcement-learning**:   
